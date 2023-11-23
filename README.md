@@ -3,8 +3,11 @@
 Siyavash Hamdi
 
 Email: siyavash.hamdi@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/siyavashhamdi
+
 StackOverflow: https://stackoverflow.com/users/3472827/siyavash-hamdi
+
 Github: https://github.com/siyavashhamdi
 
 ## Project Definition
