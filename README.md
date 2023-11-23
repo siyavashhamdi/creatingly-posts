@@ -1,46 +1,42 @@
-# Getting Started with Create React App
+## Author
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Siyavash Hamdi
 
-## Available Scripts
+Email: siyavash.hamdi@gmail.com
+LinkedIn: https://www.linkedin.com/in/siyavashhamdi
+StackOverflow: https://stackoverflow.com/users/3472827/siyavash-hamdi
+Github: https://github.com/siyavashhamdi
 
-In the project directory, you can run:
+## Project Definition
+
+This project is a React application created using Create-React-App. It serves as a foundation for building modern, scalable web applications for Creatingly company.
+Based on Assessment:
+https://docs.google.com/forms/d/e/1FAIpQLSc0_MzjiMOplZ5iLuQ2RWfXYmxBMaSSwztZW0hQCTbBM-M7Hw/viewform
+
+You can tune the app by constant variables from here `src/constants/common.constant.ts`
+The app is fully commented for each block, please refer to the code for the strategy that I have used.
+
+## Prerequisites to Run the App
+
+- Node.js v20+ installed on your machine
+- npm (Node Package Manager)
+
+# How to Run
+
+### `npm i`
+
+Run this command to install all the necessary packages.
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+This command launches the app in development mode. Open http://localhost:3000 in your browser.
+The page will reload if you make edits, and you'll see any lint errors in the console.
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+This command builds the app for production in the build folder. It optimizes the build for performance and prepares it for deployment.
+The build is minified, and the filenames include hashes for cache busting.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Additional Information
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+This project is created as part of an assessment for Creatingly company.
